@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+}
+h2{
+    color: blueviolet;
+    font-style: italic;
+}
+
+#name{
+    color: red;
+    font-weight: 600;
+}
