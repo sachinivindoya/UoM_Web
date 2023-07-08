@@ -11,6 +11,6 @@ h2{
     font-weight: 600;
 }
 
-#image1{
-    text-align: right;
+img{
+    float: right;
 }
