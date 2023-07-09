@@ -1,3 +1,9 @@
+
+body{
+    background-color: #e6f3ff;
+
+}
+    
 h1{
     font-weight: bold;
 }
@@ -14,6 +20,11 @@ h2{
 img{
     float: right;
 }
+.tableTitle{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 150px;
+}
 
 table{
     border: 1px solid black;
@@ -22,6 +33,7 @@ table{
 
 th,td{
     text-align: left;
+    padding: 10px;
 }
 
 footer{
