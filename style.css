@@ -23,3 +23,17 @@ table{
 th,td{
     text-align: left;
 }
+
+footer{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+
+}
