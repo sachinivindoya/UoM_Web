@@ -14,3 +14,8 @@ h2{
 img{
     float: right;
 }
+
+.tableTitle{
+    font-size: 25px;
+    font-weight: bold;
+}
